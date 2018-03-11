@@ -1,4 +1,11 @@
-body {
-    font-family: 'source-sans-pro', Arial, sans-serif;
-    font-size: 100%
-}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Our Website</title>
+    <link href="css/styles.css" type="text/css"
+    media="all"
+</head>
+<body>
+  <h1>Our Website</h1>
+</body>
+</html>
